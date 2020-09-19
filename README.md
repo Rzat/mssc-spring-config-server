@@ -1,0 +1,1 @@
+# mssc-spring-config-server
